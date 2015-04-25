@@ -1,0 +1,9 @@
+name: Anagram
+description: A library for creating keyed dictionaries, and searching for anagrams in the keyed dictionary
+version: 0.9.0
+author: Mat Forsberg mat@matforsberg.com
+homepage: http://www.matforsberg.com
+dev_dependencies:
+  unittest: any
+dependencies:
+  args: ">=0.13.0 <0.14.0"
